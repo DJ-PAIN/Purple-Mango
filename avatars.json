@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "avatarData": {
+      "OutfitSelections": "b33dbeee-5bdd-443d-aa6a-761248054e08,,,,1;6d48c545-22bb-46c1-a29d-0a38af387143,,,,2;6d48c545-22bb-46c1-a29d-0a38af387143,,,,3;d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,,,,1;102c625b-b988-4bf8-a2aa-a31ad7029cdc,,,,0;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,2;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,3;2cb4f372-3372-4583-8b57-c4e3988e3c28,,,,0;f527ffaf-da03-4519-82ed-46a9cb981dc3,,,,0",
+      "HairColor": "befcc00a-a2e6-48e4-864c-593d57bbbb5b",
+      "SkinColor": "85343b16-d58a-4091-96d8-083a81fb03ae",
+      "FaceFeatures": ""
+    }
+  },
+  {
+    "id": 2,
+    "avatarData": {
+      "OutfitSelections": "b33dbeee-5bdd-443d-aa6a-761248054e08,,,,1;6d48c545-22bb-46c1-a29d-0a38af387143,,,,2;6d48c545-22bb-46c1-a29d-0a38af387143,,,,3;d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,,,,1;102c625b-b988-4bf8-a2aa-a31ad7029cdc,,,,0;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,2;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,3;2cb4f372-3372-4583-8b57-c4e3988e3c28,,,,0;f527ffaf-da03-4519-82ed-46a9cb981dc3,,,,0",
+      "HairColor": "befcc00a-a2e6-48e4-864c-593d57bbbb5b",
+      "SkinColor": "85343b16-d58a-4091-96d8-083a81fb03ae",
+      "FaceFeatures": ""
+    }
+  },
+  {
+    "id": 3,
+    "avatarData": {
+      "OutfitSelections": "b33dbeee-5bdd-443d-aa6a-761248054e08,,,,1;6d48c545-22bb-46c1-a29d-0a38af387143,,,,2;6d48c545-22bb-46c1-a29d-0a38af387143,,,,3;d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,,,,1;102c625b-b988-4bf8-a2aa-a31ad7029cdc,,,,0;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,2;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,3;2cb4f372-3372-4583-8b57-c4e3988e3c28,,,,0;f527ffaf-da03-4519-82ed-46a9cb981dc3,,,,0",
+      "HairColor": "befcc00a-a2e6-48e4-864c-593d57bbbb5b",
+      "SkinColor": "85343b16-d58a-4091-96d8-083a81fb03ae",
+      "FaceFeatures": ""
+    }
+  },
+  {
+    "id": 4,
+    "avatarData": {
+      "OutfitSelections": "b33dbeee-5bdd-443d-aa6a-761248054e08,,,,1;6d48c545-22bb-46c1-a29d-0a38af387143,,,,2;6d48c545-22bb-46c1-a29d-0a38af387143,,,,3;d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,,,,1;102c625b-b988-4bf8-a2aa-a31ad7029cdc,,,,0;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,2;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,3;2cb4f372-3372-4583-8b57-c4e3988e3c28,,,,0;f527ffaf-da03-4519-82ed-46a9cb981dc3,,,,0",
+      "HairColor": "befcc00a-a2e6-48e4-864c-593d57bbbb5b",
+      "SkinColor": "85343b16-d58a-4091-96d8-083a81fb03ae",
+      "FaceFeatures": ""
+    }
+  },
+  {
+    "id": 5,
+    "avatarData": {
+      "OutfitSelections": "b33dbeee-5bdd-443d-aa6a-761248054e08,,,,1;6d48c545-22bb-46c1-a29d-0a38af387143,,,,2;6d48c545-22bb-46c1-a29d-0a38af387143,,,,3;d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,,,,1;102c625b-b988-4bf8-a2aa-a31ad7029cdc,,,,0;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,2;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,3;2cb4f372-3372-4583-8b57-c4e3988e3c28,,,,0;f527ffaf-da03-4519-82ed-46a9cb981dc3,,,,0",
+      "HairColor": "befcc00a-a2e6-48e4-864c-593d57bbbb5b",
+      "SkinColor": "85343b16-d58a-4091-96d8-083a81fb03ae",
+      "FaceFeatures": ""
+    }
+  },
+  {
+    "id": 6,
+    "avatarData": {
+      "OutfitSelections": "b33dbeee-5bdd-443d-aa6a-761248054e08,,,,1;6d48c545-22bb-46c1-a29d-0a38af387143,,,,2;6d48c545-22bb-46c1-a29d-0a38af387143,,,,3;d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,,,,1;102c625b-b988-4bf8-a2aa-a31ad7029cdc,,,,0;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,2;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,3;2cb4f372-3372-4583-8b57-c4e3988e3c28,,,,0;f527ffaf-da03-4519-82ed-46a9cb981dc3,,,,0",
+      "HairColor": "befcc00a-a2e6-48e4-864c-593d57bbbb5b",
+      "SkinColor": "85343b16-d58a-4091-96d8-083a81fb03ae",
+      "FaceFeatures": ""
+    }
+  },
+  {
+    "id": 7,
+    "avatarData": {
+      "OutfitSelections": "b33dbeee-5bdd-443d-aa6a-761248054e08,,,,1;6d48c545-22bb-46c1-a29d-0a38af387143,,,,2;6d48c545-22bb-46c1-a29d-0a38af387143,,,,3;d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,,,,1;102c625b-b988-4bf8-a2aa-a31ad7029cdc,,,,0;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,2;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,3;2cb4f372-3372-4583-8b57-c4e3988e3c28,,,,0;f527ffaf-da03-4519-82ed-46a9cb981dc3,,,,0",
+      "HairColor": "befcc00a-a2e6-48e4-864c-593d57bbbb5b",
+      "SkinColor": "85343b16-d58a-4091-96d8-083a81fb03ae",
+      "FaceFeatures": ""
+    }
+  },
+  {
+    "id": 8,
+    "avatarData": {
+      "OutfitSelections": "b33dbeee-5bdd-443d-aa6a-761248054e08,,,,1;6d48c545-22bb-46c1-a29d-0a38af387143,,,,2;6d48c545-22bb-46c1-a29d-0a38af387143,,,,3;d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,,,,1;102c625b-b988-4bf8-a2aa-a31ad7029cdc,,,,0;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,2;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,3;2cb4f372-3372-4583-8b57-c4e3988e3c28,,,,0;f527ffaf-da03-4519-82ed-46a9cb981dc3,,,,0",
+      "HairColor": "befcc00a-a2e6-48e4-864c-593d57bbbb5b",
+      "SkinColor": "85343b16-d58a-4091-96d8-083a81fb03ae",
+      "FaceFeatures": ""
+    }
+  },
+  {
+    "id": 9,
+    "avatarData": {
+      "OutfitSelections": "b33dbeee-5bdd-443d-aa6a-761248054e08,,,,1;6d48c545-22bb-46c1-a29d-0a38af387143,,,,2;6d48c545-22bb-46c1-a29d-0a38af387143,,,,3;d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,,,,1;102c625b-b988-4bf8-a2aa-a31ad7029cdc,,,,0;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,2;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,3;2cb4f372-3372-4583-8b57-c4e3988e3c28,,,,0;f527ffaf-da03-4519-82ed-46a9cb981dc3,,,,0",
+      "HairColor": "befcc00a-a2e6-48e4-864c-593d57bbbb5b",
+      "SkinColor": "85343b16-d58a-4091-96d8-083a81fb03ae",
+      "FaceFeatures": ""
+    }
+  },
+  {
+    "id": 10,
+    "avatarData": {
+      "OutfitSelections": "b33dbeee-5bdd-443d-aa6a-761248054e08,,,,1;6d48c545-22bb-46c1-a29d-0a38af387143,,,,2;6d48c545-22bb-46c1-a29d-0a38af387143,,,,3;d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,,,,1;102c625b-b988-4bf8-a2aa-a31ad7029cdc,,,,0;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,2;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,3;2cb4f372-3372-4583-8b57-c4e3988e3c28,,,,0;f527ffaf-da03-4519-82ed-46a9cb981dc3,,,,0",
+      "HairColor": "befcc00a-a2e6-48e4-864c-593d57bbbb5b",
+      "SkinColor": "85343b16-d58a-4091-96d8-083a81fb03ae",
+      "FaceFeatures": ""
+    }
+  },
+  {
+    "id": 11,
+    "avatarData": {
+      "OutfitSelections": "b33dbeee-5bdd-443d-aa6a-761248054e08,,,,1;6d48c545-22bb-46c1-a29d-0a38af387143,,,,2;6d48c545-22bb-46c1-a29d-0a38af387143,,,,3;d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,,,,1;102c625b-b988-4bf8-a2aa-a31ad7029cdc,,,,0;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,2;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,3;2cb4f372-3372-4583-8b57-c4e3988e3c28,,,,0;f527ffaf-da03-4519-82ed-46a9cb981dc3,,,,0",
+      "HairColor": "befcc00a-a2e6-48e4-864c-593d57bbbb5b",
+      "SkinColor": "85343b16-d58a-4091-96d8-083a81fb03ae",
+      "FaceFeatures": ""
+    }
+  },
+  {
+    "id": 11,
+    "avatarData": {
+      "OutfitSelections": "b33dbeee-5bdd-443d-aa6a-761248054e08,,,,1;6d48c545-22bb-46c1-a29d-0a38af387143,,,,2;6d48c545-22bb-46c1-a29d-0a38af387143,,,,3;d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,,,,1;102c625b-b988-4bf8-a2aa-a31ad7029cdc,,,,0;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,2;abc25091-ed5f-4c72-9364-fffeef1bc239,,,,3;2cb4f372-3372-4583-8b57-c4e3988e3c28,,,,0;f527ffaf-da03-4519-82ed-46a9cb981dc3,,,,0",
+      "HairColor": "befcc00a-a2e6-48e4-864c-593d57bbbb5b",
+      "SkinColor": "85343b16-d58a-4091-96d8-083a81fb03ae",
+      "FaceFeatures": ""
+    }
+  }
+]

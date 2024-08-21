@@ -1,0 +1,74 @@
+[
+    {
+        "Id": 2,
+        "PlayerID": "7",
+        "RelationshipType": 3,
+        "Favorited": 0,
+        "Muted": 0,
+        "Ignored": 0
+    },
+    {
+        "Id": 54,
+        "PlayerID": "54",
+        "RelationshipType": 3,
+        "Favorited": "1",
+        "Muted": 0,
+        "Ignored": 0
+    },
+    {
+        "Id": 54,
+        "PlayerID": "2",
+        "RelationshipType": 3,
+        "Favorited": "1",
+        "Muted": 0,
+        "Ignored": 0
+    },
+    {
+        "Id": 54,
+        "PlayerID": "4",
+        "RelationshipType": 3,
+        "Favorited": 1,
+        "Muted": 0,
+        "Ignored": 0
+    },
+    {
+        "Id": 4,
+        "PlayerID": "54",
+        "RelationshipType": 3,
+        "Favorited": "1",
+        "Muted": 0,
+        "Ignored": 0
+    },
+    {
+        "Id": 4,
+        "PlayerID": "1",
+        "RelationshipType": 3,
+        "Favorited": 1,
+        "Muted": 0,
+        "Ignored": 0
+    },
+    {
+        "Id": 4,
+        "PlayerID": "4",
+        "RelationshipType": 3,
+        "Favorited": "1",
+        "Muted": 0,
+        "Ignored": 0
+    },
+    {
+        "Id": 55,
+        "PlayerID": "4",
+        "RelationshipType": 3,
+        "Favorited": 0,
+        "Muted": 0,
+        "Ignored": 0
+    },
+    {
+        "Id": 4,
+        "PlayerID": "55",
+        "RelationshipType": 3,
+        "Favorited": "1",
+        "Muted": 0,
+        "Ignored": 0
+    }
+]

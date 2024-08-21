@@ -1,0 +1,1358 @@
+[
+  {
+    "id": 1,
+    "settingsData": [
+      {
+        "Key": "MOD_BLOCKED_TIME",
+        "Value": "0"
+      },
+      {
+        "Key": "MOD_BLOCKED_DURATION",
+        "Value": "0"
+      },
+      {
+        "Key": "PlayerSessionCount",
+        "Value": "10"
+      },
+      {
+        "Key": "ShowRoomCenter",
+        "Value": "1"
+      },
+      {
+        "Key": "QualitySettings",
+        "Value": "3"
+      },
+      {
+        "Key": "Recroom.OOBE",
+        "Value": "100"
+      },
+      {
+        "Key": "VoiceFilter",
+        "Value": "2"
+      },
+      {
+        "Key": "VIGNETTED_TELEPORT_ENABLED",
+        "Value": "0"
+      },
+      {
+        "Key": "CONTINUOUS_ROTATION_MODE",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATION_INCREMENT",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATE_IN_PLACE_ENABLED",
+        "Value": "1"
+      },
+      {
+        "Key": "TeleportBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "VoiceChat",
+        "Value": "1"
+      },
+      {
+        "Key": "PersonalBubble",
+        "Value": "0"
+      },
+      {
+        "Key": "IgnoreBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "ShowNames",
+        "Value": "1"
+      },
+      {
+        "Key": "H.264 plugin",
+        "Value": "1"
+      },
+      {
+        "Key": "USER_TRACKING",
+        "Value": "54"
+      },
+      {
+        "Key": "google_analytics_clientid_pref_key",
+        "Value": "IRPMLQAF1caeb7f2784cd09e15a6e3ad06864ad1ea655c4b"
+      },
+      {
+        "Key": "DAILY_LOGIN_DATE",
+        "Value": "15"
+      },
+      {
+        "Key": "OBJECTIVE_DATE",
+        "Value": "15"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS2",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED2",
+        "Value": "0"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "settingsData": [
+      {
+        "Key": "MOD_BLOCKED_TIME",
+        "Value": "0"
+      },
+      {
+        "Key": "MOD_BLOCKED_DURATION",
+        "Value": "0"
+      },
+      {
+        "Key": "PlayerSessionCount",
+        "Value": "10"
+      },
+      {
+        "Key": "ShowRoomCenter",
+        "Value": "1"
+      },
+      {
+        "Key": "QualitySettings",
+        "Value": "3"
+      },
+      {
+        "Key": "Recroom.OOBE",
+        "Value": "100"
+      },
+      {
+        "Key": "VoiceFilter",
+        "Value": "2"
+      },
+      {
+        "Key": "VIGNETTED_TELEPORT_ENABLED",
+        "Value": "0"
+      },
+      {
+        "Key": "CONTINUOUS_ROTATION_MODE",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATION_INCREMENT",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATE_IN_PLACE_ENABLED",
+        "Value": "1"
+      },
+      {
+        "Key": "TeleportBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "VoiceChat",
+        "Value": "1"
+      },
+      {
+        "Key": "PersonalBubble",
+        "Value": "0"
+      },
+      {
+        "Key": "IgnoreBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "ShowNames",
+        "Value": "1"
+      },
+      {
+        "Key": "H.264 plugin",
+        "Value": "1"
+      },
+      {
+        "Key": "USER_TRACKING",
+        "Value": "54"
+      },
+      {
+        "Key": "google_analytics_clientid_pref_key",
+        "Value": "IRPMLQAF1caeb7f2784cd09e15a6e3ad06864ad1ea655c4b"
+      },
+      {
+        "Key": "DAILY_LOGIN_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS2",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED2",
+        "Value": "0"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "settingsData": [
+      {
+        "Key": "MOD_BLOCKED_TIME",
+        "Value": "0"
+      },
+      {
+        "Key": "MOD_BLOCKED_DURATION",
+        "Value": "0"
+      },
+      {
+        "Key": "PlayerSessionCount",
+        "Value": "10"
+      },
+      {
+        "Key": "ShowRoomCenter",
+        "Value": "1"
+      },
+      {
+        "Key": "QualitySettings",
+        "Value": "3"
+      },
+      {
+        "Key": "Recroom.OOBE",
+        "Value": "100"
+      },
+      {
+        "Key": "VoiceFilter",
+        "Value": "2"
+      },
+      {
+        "Key": "VIGNETTED_TELEPORT_ENABLED",
+        "Value": "0"
+      },
+      {
+        "Key": "CONTINUOUS_ROTATION_MODE",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATION_INCREMENT",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATE_IN_PLACE_ENABLED",
+        "Value": "1"
+      },
+      {
+        "Key": "TeleportBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "VoiceChat",
+        "Value": "1"
+      },
+      {
+        "Key": "PersonalBubble",
+        "Value": "0"
+      },
+      {
+        "Key": "IgnoreBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "ShowNames",
+        "Value": "1"
+      },
+      {
+        "Key": "H.264 plugin",
+        "Value": "1"
+      },
+      {
+        "Key": "USER_TRACKING",
+        "Value": "54"
+      },
+      {
+        "Key": "google_analytics_clientid_pref_key",
+        "Value": "IRPMLQAF1caeb7f2784cd09e15a6e3ad06864ad1ea655c4b"
+      },
+      {
+        "Key": "DAILY_LOGIN_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS2",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED2",
+        "Value": "0"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "settingsData": [
+      {
+        "Key": "MOD_BLOCKED_TIME",
+        "Value": "0"
+      },
+      {
+        "Key": "MOD_BLOCKED_DURATION",
+        "Value": "0"
+      },
+      {
+        "Key": "PlayerSessionCount",
+        "Value": "10"
+      },
+      {
+        "Key": "ShowRoomCenter",
+        "Value": "1"
+      },
+      {
+        "Key": "QualitySettings",
+        "Value": "3"
+      },
+      {
+        "Key": "Recroom.OOBE",
+        "Value": "100"
+      },
+      {
+        "Key": "VoiceFilter",
+        "Value": "2"
+      },
+      {
+        "Key": "VIGNETTED_TELEPORT_ENABLED",
+        "Value": "0"
+      },
+      {
+        "Key": "CONTINUOUS_ROTATION_MODE",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATION_INCREMENT",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATE_IN_PLACE_ENABLED",
+        "Value": "1"
+      },
+      {
+        "Key": "TeleportBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "VoiceChat",
+        "Value": "1"
+      },
+      {
+        "Key": "PersonalBubble",
+        "Value": "0"
+      },
+      {
+        "Key": "IgnoreBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "ShowNames",
+        "Value": "1"
+      },
+      {
+        "Key": "H.264 plugin",
+        "Value": "1"
+      },
+      {
+        "Key": "USER_TRACKING",
+        "Value": "54"
+      },
+      {
+        "Key": "google_analytics_clientid_pref_key",
+        "Value": "IRPMLQAF1caeb7f2784cd09e15a6e3ad06864ad1ea655c4b"
+      },
+      {
+        "Key": "DAILY_LOGIN_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS2",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED2",
+        "Value": "0"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "settingsData": [
+      {
+        "Key": "MOD_BLOCKED_TIME",
+        "Value": "0"
+      },
+      {
+        "Key": "MOD_BLOCKED_DURATION",
+        "Value": "0"
+      },
+      {
+        "Key": "PlayerSessionCount",
+        "Value": "10"
+      },
+      {
+        "Key": "ShowRoomCenter",
+        "Value": "1"
+      },
+      {
+        "Key": "QualitySettings",
+        "Value": "3"
+      },
+      {
+        "Key": "Recroom.OOBE",
+        "Value": "100"
+      },
+      {
+        "Key": "VoiceFilter",
+        "Value": "2"
+      },
+      {
+        "Key": "VIGNETTED_TELEPORT_ENABLED",
+        "Value": "0"
+      },
+      {
+        "Key": "CONTINUOUS_ROTATION_MODE",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATION_INCREMENT",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATE_IN_PLACE_ENABLED",
+        "Value": "1"
+      },
+      {
+        "Key": "TeleportBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "VoiceChat",
+        "Value": "1"
+      },
+      {
+        "Key": "PersonalBubble",
+        "Value": "0"
+      },
+      {
+        "Key": "IgnoreBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "ShowNames",
+        "Value": "1"
+      },
+      {
+        "Key": "H.264 plugin",
+        "Value": "1"
+      },
+      {
+        "Key": "USER_TRACKING",
+        "Value": "54"
+      },
+      {
+        "Key": "google_analytics_clientid_pref_key",
+        "Value": "IRPMLQAF1caeb7f2784cd09e15a6e3ad06864ad1ea655c4b"
+      },
+      {
+        "Key": "DAILY_LOGIN_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS2",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED2",
+        "Value": "0"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "settingsData": [
+      {
+        "Key": "MOD_BLOCKED_TIME",
+        "Value": "0"
+      },
+      {
+        "Key": "MOD_BLOCKED_DURATION",
+        "Value": "0"
+      },
+      {
+        "Key": "PlayerSessionCount",
+        "Value": "10"
+      },
+      {
+        "Key": "ShowRoomCenter",
+        "Value": "1"
+      },
+      {
+        "Key": "QualitySettings",
+        "Value": "3"
+      },
+      {
+        "Key": "Recroom.OOBE",
+        "Value": "100"
+      },
+      {
+        "Key": "VoiceFilter",
+        "Value": "2"
+      },
+      {
+        "Key": "VIGNETTED_TELEPORT_ENABLED",
+        "Value": "0"
+      },
+      {
+        "Key": "CONTINUOUS_ROTATION_MODE",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATION_INCREMENT",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATE_IN_PLACE_ENABLED",
+        "Value": "1"
+      },
+      {
+        "Key": "TeleportBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "VoiceChat",
+        "Value": "1"
+      },
+      {
+        "Key": "PersonalBubble",
+        "Value": "0"
+      },
+      {
+        "Key": "IgnoreBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "ShowNames",
+        "Value": "1"
+      },
+      {
+        "Key": "H.264 plugin",
+        "Value": "1"
+      },
+      {
+        "Key": "USER_TRACKING",
+        "Value": "54"
+      },
+      {
+        "Key": "google_analytics_clientid_pref_key",
+        "Value": "IRPMLQAF1caeb7f2784cd09e15a6e3ad06864ad1ea655c4b"
+      },
+      {
+        "Key": "DAILY_LOGIN_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS2",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED2",
+        "Value": "0"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "settingsData": [
+      {
+        "Key": "MOD_BLOCKED_TIME",
+        "Value": "0"
+      },
+      {
+        "Key": "MOD_BLOCKED_DURATION",
+        "Value": "0"
+      },
+      {
+        "Key": "PlayerSessionCount",
+        "Value": "10"
+      },
+      {
+        "Key": "ShowRoomCenter",
+        "Value": "1"
+      },
+      {
+        "Key": "QualitySettings",
+        "Value": "3"
+      },
+      {
+        "Key": "Recroom.OOBE",
+        "Value": "100"
+      },
+      {
+        "Key": "VoiceFilter",
+        "Value": "2"
+      },
+      {
+        "Key": "VIGNETTED_TELEPORT_ENABLED",
+        "Value": "0"
+      },
+      {
+        "Key": "CONTINUOUS_ROTATION_MODE",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATION_INCREMENT",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATE_IN_PLACE_ENABLED",
+        "Value": "1"
+      },
+      {
+        "Key": "TeleportBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "VoiceChat",
+        "Value": "1"
+      },
+      {
+        "Key": "PersonalBubble",
+        "Value": "0"
+      },
+      {
+        "Key": "IgnoreBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "ShowNames",
+        "Value": "1"
+      },
+      {
+        "Key": "H.264 plugin",
+        "Value": "1"
+      },
+      {
+        "Key": "USER_TRACKING",
+        "Value": "54"
+      },
+      {
+        "Key": "google_analytics_clientid_pref_key",
+        "Value": "IRPMLQAF1caeb7f2784cd09e15a6e3ad06864ad1ea655c4b"
+      },
+      {
+        "Key": "DAILY_LOGIN_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS2",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED2",
+        "Value": "0"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "settingsData": [
+      {
+        "Key": "MOD_BLOCKED_TIME",
+        "Value": "0"
+      },
+      {
+        "Key": "MOD_BLOCKED_DURATION",
+        "Value": "0"
+      },
+      {
+        "Key": "PlayerSessionCount",
+        "Value": "10"
+      },
+      {
+        "Key": "ShowRoomCenter",
+        "Value": "1"
+      },
+      {
+        "Key": "QualitySettings",
+        "Value": "3"
+      },
+      {
+        "Key": "Recroom.OOBE",
+        "Value": "100"
+      },
+      {
+        "Key": "VoiceFilter",
+        "Value": "2"
+      },
+      {
+        "Key": "VIGNETTED_TELEPORT_ENABLED",
+        "Value": "0"
+      },
+      {
+        "Key": "CONTINUOUS_ROTATION_MODE",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATION_INCREMENT",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATE_IN_PLACE_ENABLED",
+        "Value": "1"
+      },
+      {
+        "Key": "TeleportBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "VoiceChat",
+        "Value": "1"
+      },
+      {
+        "Key": "PersonalBubble",
+        "Value": "0"
+      },
+      {
+        "Key": "IgnoreBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "ShowNames",
+        "Value": "1"
+      },
+      {
+        "Key": "H.264 plugin",
+        "Value": "1"
+      },
+      {
+        "Key": "USER_TRACKING",
+        "Value": "54"
+      },
+      {
+        "Key": "google_analytics_clientid_pref_key",
+        "Value": "IRPMLQAF1caeb7f2784cd09e15a6e3ad06864ad1ea655c4b"
+      },
+      {
+        "Key": "DAILY_LOGIN_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS2",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED2",
+        "Value": "0"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "settingsData": [
+      {
+        "Key": "MOD_BLOCKED_TIME",
+        "Value": "0"
+      },
+      {
+        "Key": "MOD_BLOCKED_DURATION",
+        "Value": "0"
+      },
+      {
+        "Key": "PlayerSessionCount",
+        "Value": "10"
+      },
+      {
+        "Key": "ShowRoomCenter",
+        "Value": "1"
+      },
+      {
+        "Key": "QualitySettings",
+        "Value": "3"
+      },
+      {
+        "Key": "Recroom.OOBE",
+        "Value": "100"
+      },
+      {
+        "Key": "VoiceFilter",
+        "Value": "2"
+      },
+      {
+        "Key": "VIGNETTED_TELEPORT_ENABLED",
+        "Value": "0"
+      },
+      {
+        "Key": "CONTINUOUS_ROTATION_MODE",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATION_INCREMENT",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATE_IN_PLACE_ENABLED",
+        "Value": "1"
+      },
+      {
+        "Key": "TeleportBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "VoiceChat",
+        "Value": "1"
+      },
+      {
+        "Key": "PersonalBubble",
+        "Value": "0"
+      },
+      {
+        "Key": "IgnoreBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "ShowNames",
+        "Value": "1"
+      },
+      {
+        "Key": "H.264 plugin",
+        "Value": "1"
+      },
+      {
+        "Key": "USER_TRACKING",
+        "Value": "54"
+      },
+      {
+        "Key": "google_analytics_clientid_pref_key",
+        "Value": "IRPMLQAF1caeb7f2784cd09e15a6e3ad06864ad1ea655c4b"
+      },
+      {
+        "Key": "DAILY_LOGIN_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS2",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED2",
+        "Value": "0"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "settingsData": [
+      {
+        "Key": "MOD_BLOCKED_TIME",
+        "Value": "0"
+      },
+      {
+        "Key": "MOD_BLOCKED_DURATION",
+        "Value": "0"
+      },
+      {
+        "Key": "PlayerSessionCount",
+        "Value": "10"
+      },
+      {
+        "Key": "ShowRoomCenter",
+        "Value": "1"
+      },
+      {
+        "Key": "QualitySettings",
+        "Value": "3"
+      },
+      {
+        "Key": "Recroom.OOBE",
+        "Value": "100"
+      },
+      {
+        "Key": "VoiceFilter",
+        "Value": "2"
+      },
+      {
+        "Key": "VIGNETTED_TELEPORT_ENABLED",
+        "Value": "0"
+      },
+      {
+        "Key": "CONTINUOUS_ROTATION_MODE",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATION_INCREMENT",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATE_IN_PLACE_ENABLED",
+        "Value": "1"
+      },
+      {
+        "Key": "TeleportBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "VoiceChat",
+        "Value": "1"
+      },
+      {
+        "Key": "PersonalBubble",
+        "Value": "0"
+      },
+      {
+        "Key": "IgnoreBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "ShowNames",
+        "Value": "1"
+      },
+      {
+        "Key": "H.264 plugin",
+        "Value": "1"
+      },
+      {
+        "Key": "USER_TRACKING",
+        "Value": "54"
+      },
+      {
+        "Key": "google_analytics_clientid_pref_key",
+        "Value": "IRPMLQAF1caeb7f2784cd09e15a6e3ad06864ad1ea655c4b"
+      },
+      {
+        "Key": "DAILY_LOGIN_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS2",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED2",
+        "Value": "0"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "settingsData": [
+      {
+        "Key": "MOD_BLOCKED_TIME",
+        "Value": "0"
+      },
+      {
+        "Key": "MOD_BLOCKED_DURATION",
+        "Value": "0"
+      },
+      {
+        "Key": "PlayerSessionCount",
+        "Value": "10"
+      },
+      {
+        "Key": "ShowRoomCenter",
+        "Value": "1"
+      },
+      {
+        "Key": "QualitySettings",
+        "Value": "3"
+      },
+      {
+        "Key": "Recroom.OOBE",
+        "Value": "100"
+      },
+      {
+        "Key": "VoiceFilter",
+        "Value": "2"
+      },
+      {
+        "Key": "VIGNETTED_TELEPORT_ENABLED",
+        "Value": "0"
+      },
+      {
+        "Key": "CONTINUOUS_ROTATION_MODE",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATION_INCREMENT",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATE_IN_PLACE_ENABLED",
+        "Value": "1"
+      },
+      {
+        "Key": "TeleportBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "VoiceChat",
+        "Value": "1"
+      },
+      {
+        "Key": "PersonalBubble",
+        "Value": "0"
+      },
+      {
+        "Key": "IgnoreBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "ShowNames",
+        "Value": "1"
+      },
+      {
+        "Key": "H.264 plugin",
+        "Value": "1"
+      },
+      {
+        "Key": "USER_TRACKING",
+        "Value": "54"
+      },
+      {
+        "Key": "google_analytics_clientid_pref_key",
+        "Value": "IRPMLQAF1caeb7f2784cd09e15a6e3ad06864ad1ea655c4b"
+      },
+      {
+        "Key": "DAILY_LOGIN_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS2",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED2",
+        "Value": "0"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "settingsData": [
+      {
+        "Key": "MOD_BLOCKED_TIME",
+        "Value": "0"
+      },
+      {
+        "Key": "MOD_BLOCKED_DURATION",
+        "Value": "0"
+      },
+      {
+        "Key": "PlayerSessionCount",
+        "Value": "10"
+      },
+      {
+        "Key": "ShowRoomCenter",
+        "Value": "1"
+      },
+      {
+        "Key": "QualitySettings",
+        "Value": "3"
+      },
+      {
+        "Key": "Recroom.OOBE",
+        "Value": "0"
+      },
+      {
+        "Key": "VoiceFilter",
+        "Value": "2"
+      },
+      {
+        "Key": "VIGNETTED_TELEPORT_ENABLED",
+        "Value": "0"
+      },
+      {
+        "Key": "CONTINUOUS_ROTATION_MODE",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATION_INCREMENT",
+        "Value": "0"
+      },
+      {
+        "Key": "ROTATE_IN_PLACE_ENABLED",
+        "Value": "1"
+      },
+      {
+        "Key": "TeleportBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "VoiceChat",
+        "Value": "1"
+      },
+      {
+        "Key": "PersonalBubble",
+        "Value": "0"
+      },
+      {
+        "Key": "IgnoreBuffer",
+        "Value": "0"
+      },
+      {
+        "Key": "ShowNames",
+        "Value": "1"
+      },
+      {
+        "Key": "H.264 plugin",
+        "Value": "1"
+      },
+      {
+        "Key": "USER_TRACKING",
+        "Value": "54"
+      },
+      {
+        "Key": "google_analytics_clientid_pref_key",
+        "Value": "IRPMLQAF1caeb7f2784cd09e15a6e3ad06864ad1ea655c4b"
+      },
+      {
+        "Key": "DAILY_LOGIN_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_DATE",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED0",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED1",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_PROGRESS2",
+        "Value": "0"
+      },
+      {
+        "Key": "OBJECTIVE_COMPLETED2",
+        "Value": "0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "Id": 1,
+    "AppVersion": "OldRecRoom2016_0.1",
+    "Activity": "null",
+    "Private": false,
+    "AvailableSpace": 0,
+    "GameInProgress" false,
+    "PlayerIds": []    
+  }
+]
